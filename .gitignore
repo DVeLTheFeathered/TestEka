@@ -1,0 +1,7 @@
+# Lines starting with '#' are considered comments.
+
+.vs/
+Publish/
+
+TestEka/bin
+TestEka/obj
